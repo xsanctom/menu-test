@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://xsanctom.github.io/new-menu-concept",
+  "homepage": "https://xsanctom.github.io/menu-test",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
